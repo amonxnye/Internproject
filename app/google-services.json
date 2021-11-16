@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978716835467",
+    "project_id": "internproject-ridelink",
+    "storage_bucket": "internproject-ridelink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978716835467:android:101eec1b824aa477c31e8e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978716835467-k9ebllpnk6u08568ggk8erpb316aeboq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7WxIHpL5-OUd4gvEFnqPuYPJ6cIJK50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978716835467-k9ebllpnk6u08568ggk8erpb316aeboq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
